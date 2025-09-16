@@ -2,11 +2,11 @@
 
 <p align="left">
   
-  <a href="https://github.com/rxsuwal?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rxsuwal?color=green&logo=github">
+  <a href="https://github.com/kaalxvairab?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaalxvairab?color=green&logo=github">
   </a>
-  <a href="https://github.com/rxsuwal/">
-    <img src="https://komarev.com/ghpvc/?username=rxsuwal" alt="visitors" />
+  <a href="https://github.com/kaalxvairab/">
+    <img src="https://komarev.com/ghpvc/?username=kaalxvairab" alt="visitors" />
   </a>
 
 </p>
@@ -29,8 +29,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxsuwal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxsuwal&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaalxvairab&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaalxvairab&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
